@@ -1,0 +1,10 @@
+name: "@danielgural/sort_by_detections"
+description: Sort Detections
+version: 1.0.0
+fiftyone:
+  version: "*"
+url: https://github.com/danielgural/sort_by_detections/blob/main/README.md
+license: Apache 2.0
+operators:
+  - sort_by_detections
+
